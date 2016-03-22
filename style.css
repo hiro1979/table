@@ -1,0 +1,49 @@
+
+@charset "utf-8";
+
+
+
+table{
+
+  border-collapse: collapse;
+ width:400px; height:200px;
+}
+
+th{
+
+  background-color:#C0C0C0;
+  text-align: left;
+
+
+}
+
+.button{
+     margin-top: 5px;
+    font-size: 14px;
+    width:30px; height:20px;
+    border-top: 1px solid #ccc;
+    border-right: 1px solid #999;
+    border-bottom: 1px solid #999;
+    border-left: 1px solid #ccc;
+    padding: 1px 1px;
+    color: #666;
+}
+
+td.matsu{
+color: blue;
+text-align: center;
+}
+
+td.take{
+color: green;
+text-align: center;
+}
+
+td.ume{
+color: #ff66cc;
+text-align: center;
+}
+
+td{
+  border-bottom: solid  1px #000000;
+}
